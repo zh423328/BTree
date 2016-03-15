@@ -1,0 +1,1 @@
+这个是lua 版bt树的一些小demo,基于quick-cocos2d-x 2.2.6，为了熟悉之前用的bt树而写的demo
